@@ -1,0 +1,62 @@
+[
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+  {
+    "cep": "85470-000",
+    "logradouro": "",
+    "complemento": "",
+    "bairro": "",
+    "localidade": "Catanduvas",
+    "uf": "PR",
+    "ibge": "4105003",
+    "gia": "",
+    "ddd": "45",
+    "siafi": "7497"
+  },
+  {
+    "cep": "85470-000",
+    "logradouro": "",
+    "complemento": "",
+    "bairro": "",
+    "localidade": "Catanduvas",
+    "uf": "PR",
+    "ibge": "4105003",
+    "gia": "",
+    "ddd": "45",
+    "siafi": "7497"
+  },
+  {
+    "cep": "01001-000",
+    "logradouro": "Praça da Sé",
+    "complemento": "lado ímpar",
+    "bairro": "Sé",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+  },
+  {
+    "cep": "85819-010",
+    "logradouro": "Rua Prates",
+    "complemento": "",
+    "bairro": "Universitário",
+    "localidade": "Cascavel",
+    "uf": "PR",
+    "ibge": "4104808",
+    "gia": "",
+    "ddd": "45",
+    "siafi": "7493"
+  }
+]
